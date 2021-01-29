@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.home{
+    width: 100%;
+    height: 100%;
+    background-color: lightpink;
+    padding: 15px;
+}
+
+.headline{
+    font-size: 5rem;   
+    font-family: sans-serif;
+    color: limegreen;
+}
+
+.nav-links{
+    color: black;
+    font-size: 50px; 
+    text-decoration: none;
+}
+
+.sunset{
+    width: 400px;
+}
