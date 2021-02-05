@@ -9,19 +9,20 @@ ul{
 .home{
     width: 100%;
     height: 100%;
-    background-color: lightpink;
+    background-color: #918686;
     padding: 15px;
 }
 
 .headline{
     font-size: 5rem;   
-    font-family: sans-serif;
-    color: limegreen;
+    font-family: 'Abril Fatface', cursive;
+    color: #ffc517;
 }
 
 .nav-links{
     color: black;
     font-size: 50px; 
+    font-family: 'Abril Fatface', cursive;
     text-decoration: none;
 }
 
