@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: #1d1d1d;
+    /* overflow: hidden; */
+    font-family: interstate, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+h1{
+    position: relative;
+    color:  #ffbb0c;
+    font-size: 2rem;
+    padding: 1rem;
+    left: 3%;
+}
+h2{
+    position: relative;
+    color:  #ffbb0c;
+    font-size: 2rem;
+    padding: 1rem;
+    left: 90%;
+    display: inline;
+    top: -4rem;
+}
+h2:hover{
+    color: white;
+}
+
+ul{
+    position: relative;
+    list-style: none;
+    left: 6rem;
+    top: -3rem;
+}
+img{
+    width: 40vw;
+    height: auto;
+}
+li{
+    display: inline-block;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+
+}
+
+a{
+    text-decoration: none;
+}
