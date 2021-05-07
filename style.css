@@ -136,3 +136,11 @@ a {
 a:hover{
   color: white;
 }
+
+p{
+  position: relative;
+  color: #ffbb0c;
+  font-size: 1rem;
+  width: 600px;
+  left: 10vw;
+}
